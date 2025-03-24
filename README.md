@@ -19,7 +19,7 @@
 -   [The Power of Self-Education: My Journey from Law to Operation Development](https://www.linkedin.com/pulse/power-self-education-my-journey-from-law-operation-volha-sakalouskaya-c8gwc/?trackingId=15%2Bp7%2F%2FYSTmPm3iq%2F71wkA%3D%3D)
 
 <h2>🌱 Future Interests:</h2>
-<p>I'm currently interested in learning more about automation testing, new programming languages, API testing, and expanding my knowledge of software design principles.</p>
+<p>I'm currently interested in learning more about automation testing, new programming languages and expanding my knowledge of software design principles.</p>
 
 <h2> 🤳 Connect with me:</h2>
 
