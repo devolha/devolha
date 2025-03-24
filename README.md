@@ -10,7 +10,7 @@
 
 <h2>🧪 QA Projects:</h2>
 
--   <b>Selenium (Ruby)</b>
+-   <b>Selenium + Ruby</b>
     -   [Selenium: Blog Testing (Automation Testing)](https://github.com/devolha/selenium_blog_test) - Automated tests for a blog application using Selenium and Ruby.
 
 <h2>📄 Certifications:</h2>
