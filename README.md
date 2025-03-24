@@ -11,11 +11,12 @@
 <h2>🧪 QA Projects:</h2>
 
 -   <b>Selenium (Ruby)</b>
-    -   [Selenium: Blog Testing(Automation Testing)](https://github.com/devolha/selenium_blog_test) - Automated tests for a blog application using Selenium and Ruby.
+    -   [Selenium: Blog Testing (Automation Testing)](https://github.com/devolha/selenium_blog_test) - Automated tests for a blog application using Selenium and Ruby.
 
 <h2>📄 Certifications:</h2>
 
--   [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/dfea717dbd57c75751e2c7981bc15d870c9679d717c9ddc14bfe3ee6abe9090c)
+-   <b>Microsoft</b>
+    -   [Career Essentials in Software Development](https://www.linkedin.com/learning/certificates/dfea717dbd57c75751e2c7981bc15d870c9679d717c9ddc14bfe3ee6abe9090c)
 
 <h2>📇 My story about career switch</h2>
 
