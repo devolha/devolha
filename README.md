@@ -10,8 +10,9 @@
 <h2>🗄️ Back-end Programming Projects:</h2>
 
 -   <b>Python</b>
-    -   [Number Guess Game](https://github.com/devolha/guess-game) - A simple game where the user tries to guess a randomly generated number.
+    -   [Number Guess Game](https://github.com/devolha/guess-game) - A simple game, which allows a user to guess a randomly generated number.
     -   [Console Calculator](https://github.com/devolha/console_calculator) - A basic calculator that operates from the command line.
+    -   [Task Manager App](https://github.com/devolha/task_management) - A console app for providing operations with user's tasks (create, delete, view all operations, exit the application).
 
 <h2>🧪 QA Projects:</h2>
 
