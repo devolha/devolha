@@ -2,14 +2,19 @@
 
 <p>I'm a self-motivated individual with a passion for software development and quality assurance. Currently, I'm focusing on building my skills in programming. My experience with ERP systems has provided me with valuable insights into software functionality and user needs.</p>
 
+<h2>📚 Full-stack Projects:</h2>
+
+-   <b>Langutoro</b> (in progress) - an interactive website to learn Japanese language by exploring traditions and cultural heritage.
+    - Technologies: HTML5, CSS3, Javascript
+
 <h2>🎨 Front-end Programming Projects:</h2>
 
--   <b>HTML5</b>
+-   <b>HTML5</b>:
     -   Personal Website (in progress) - a structured personal page, written in HTML language according to the best semantical code practices.
 
 <h2>🗄️ Back-end Programming Projects:</h2>
 
--   <b>Python</b>
+-   <b>Python</b>:
     -   [Number Guess Game](https://github.com/devolha/guess-game) - a simple game, which allows a user to guess a randomly generated number.
     -   [Console Calculator](https://github.com/devolha/console_calculator) - a basic calculator that operates from the command line.
     -   [Task Manager App](https://github.com/devolha/task_management) - (in progress). a console app for providing operations with user's tasks (create, delete, view all operations, exit the application).
