@@ -1,4 +1,4 @@
-<h1>Hi, I'm Volha! <br/><a href="https://github.com/devolha">Engineer</a>, <a href="https://www.linkedin.com/in/volha-sakalouskaya/">ERP Specialist</a></h1>
+<h1>Hi, I'm Volha! <br/><a href="https://www.linkedin.com/in/volha-sakalouskaya/">ERP Specialist</a>, <a href="https://github.com/devolha">Junior Software Developer</a></h1>
 
 <p>I'm a self-motivated individual with a passion for software development and quality assurance. Currently, I'm focusing on building my skills in programming. My experience with ERP systems has provided me with valuable insights into software functionality and user needs.</p>
 
