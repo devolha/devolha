@@ -1,6 +1,8 @@
 <h1>Hi, I'm Volha! <br/><a href="https://www.linkedin.com/in/volha-sakalouskaya/">ERP Specialist</a>, <a href="https://github.com/devolha">Junior Software Developer</a></h1>
 
-<p>I'm a self-motivated individual with a passion for software development and quality assurance. Currently, I'm focusing on building my skills in programming. My experience with ERP systems has provided me with valuable insights into software functionality and user needs.</p>
+<p>I'm a self-motivated individual with a passion for modern technologies. As an expiriesied ERP application user, I've started to learn more about information technologies and various digital business solutions.
+<p>After about 2 years of self-studing and exploring IT field, I'm creating and developing on my own.</p>
+<p>Currently I'm interested in learning core concepts of computer science, such as operational systems and applications management, software development, new programming languages and ML related field.</p>
 
 <h2>📚 Full-stack Projects:</h2>
 
@@ -35,8 +37,6 @@
 
 -   [The Power of Self-Education: My Journey from Law to Operation Development](https://www.linkedin.com/pulse/power-self-education-my-journey-from-law-operation-volha-sakalouskaya-c8gwc/?trackingId=15%2Bp7%2F%2FYSTmPm3iq%2F71wkA%3D%3D)
 
-<h2>🌱 Future Interests:</h2>
-<p>I'm currently interested in learning more about automation testing, new programming languages and expanding my knowledge of software design principles.</p>
 
 <h2> 🤳 Connect with me:</h2>
 
