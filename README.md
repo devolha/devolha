@@ -15,7 +15,7 @@
 
 <h2>📄 Certifications:</h2>
 
--   <b>Microsoft <img alt="VolhaSakalouskaya | Microsoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" /> </b>
+-   <b><img alt="VolhaSakalouskaya | Microsoft" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" />  Microsoft</b>
     -   [Career Essentials in Software Development](https://www.linkedin.com/learning/certificates/dfea717dbd57c75751e2c7981bc15d870c9679d717c9ddc14bfe3ee6abe9090c)
     -   Career Essentials in System Administration (in progress)
 -   <b>Astronomer</b>
