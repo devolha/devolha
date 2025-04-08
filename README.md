@@ -2,7 +2,12 @@
 
 <p>I'm a self-motivated individual with a passion for software development and quality assurance. Currently, I'm focusing on building my skills in programming. My experience with ERP systems has provided me with valuable insights into software functionality and user needs.</p>
 
-<h2>👩🏼‍💻 Programming Projects:</h2>
+<h2>🎨 Front-end Programming Projects:</h2>
+
+-   <b>HTML5</b>
+    -   Personal Website (in progress) - A semanticaly well-structured website, written in HTML language according to best code practices.
+
+<h2>🗄️ Back-end Programming Projects:</h2>
 
 -   <b>Python</b>
     -   [Number Guess Game](https://github.com/devolha/guess-game) - A simple game where the user tries to guess a randomly generated number.
