@@ -6,12 +6,12 @@
 
 <b> 🇯🇵  ラングトロ - LANGUTORO </b> (in progress) - an interactive website to learn Japanese language by exploring traditions and cultural heritage.>
 
-<h2>🎨 Front-end Programming Projects:</h2>
+<h2>🎨 Front-end Projects:</h2>
 
 -   <b>HTML5</b>:
     -   Personal Website (in progress) - a structured personal page, written in HTML language according to the best semantical code practices.
 
-<h2>🗄️ Back-end Programming Projects:</h2>
+<h2>🗄️ Back-end Projects:</h2>
 
 -   <b>Python</b>:
     -   [Number Guess Game](https://github.com/devolha/guess-game) - a simple game, which allows a user to guess a randomly generated number.
