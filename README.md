@@ -5,7 +5,7 @@
 <h2>🎨 Front-end Programming Projects:</h2>
 
 -   <b>HTML5</b>
-    -   Personal Website (in progress) - A semanticaly well-structured website, written in HTML language according to best code practices.
+    -   Personal Website (in progress) - a structured personal page, written in HTML language according to the best semantical code practices.
 
 <h2>🗄️ Back-end Programming Projects:</h2>
 
