@@ -6,7 +6,7 @@
 
 <h2>📚 Full-stack Projects:</h2>
 
-<b> 🇯🇵  ラングトロ - LANGUTORO </b> (in progress) - an interactive website to learn Japanese language by exploring traditions and cultural heritage.>
+<b> [🇯🇵  ラングトロ - LANGUTORO </b> (in progress)](https://github.com/devolha/langutoro) - an interactive website to learn Japanese language by exploring traditions and cultural heritage.>
 
 <h2>🎨 Front-end Projects:</h2>
 
