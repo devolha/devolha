@@ -1,6 +1,6 @@
 <h1>Hi, I'm Volha! <br/><a href="https://github.com/devolha">Engineer</a>, <a href="https://www.linkedin.com/in/volha-sakalouskaya/">ERP Specialist</a></h1>
 
-<p>I'm a self-motivated individual with a passion for software development and quality assurance. Currently, I'm focusing on building my skills in programming and test automation. My experience with ERP systems has provided me with valuable insights into software functionality and user needs.</p>
+<p>I'm a self-motivated individual with a passion for software development and quality assurance. Currently, I'm focusing on building my skills in programming. My experience with ERP systems has provided me with valuable insights into software functionality and user needs.</p>
 
 <h2>👩🏼‍💻 Programming Projects:</h2>
 
@@ -15,8 +15,11 @@
 
 <h2>📄 Certifications:</h2>
 
--   <b>Microsoft</b>
+-   <b>Microsoft <img alt="VolhaSakalouskaya | Microsoft" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" /> </b>
     -   [Career Essentials in Software Development](https://www.linkedin.com/learning/certificates/dfea717dbd57c75751e2c7981bc15d870c9679d717c9ddc14bfe3ee6abe9090c)
+    -   Career Essentials in System Administration (in progress)
+-   <b>Astronomer</b>
+    - [Data Engineering Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/5b2abc69af91ae4cd2c8308b5f5f850326fb1aa7671a06d79ac0111de3cec28a)
 
 <h2>📇 My story about career switch</h2>
 
