@@ -6,12 +6,12 @@
 
 <h2>📚 Full-stack Projects:</h2>
 
-[🇯🇵  ラングトロ - LANGUTORO (in progress)](https://github.com/devolha/langutoro)</b> - an interactive website to learn Japanese language by exploring traditions and cultural heritage.
+<b>🇯🇵  ラングトロ - LANGUTORO</b> [(in progress)](https://github.com/devolha/langutoro)</b> - an interactive website to learn Japanese language by exploring traditions and cultural heritage.
 
 <h2>🎨 Front-end Projects:</h2>
 
 -   <b>HTML5</b>:
-    -   [Personal Website (in progress)](https://github.com/devolha/personal-site) - a structured personal page, written in HTML language according to the best semantical code practices.
+    - Personal Website [(in progress)](https://github.com/devolha/personal-site) - a structured personal page, written in HTML language according to the best semantical code practices.
 
 <h2>🗄️ Back-end Projects:</h2>
 
