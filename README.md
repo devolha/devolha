@@ -11,7 +11,7 @@
 <h2>🎨 Front-end Projects:</h2>
 
 -   <b>HTML5</b>:
-    - Personal Website [(in progress)](https://github.com/devolha/personal-site) - a structured personal page, written in HTML language according to the best semantical code practices.
+    - [Personal Website](https://github.com/devolha/personal-site) - a structured personal page, written in HTML language according to the best semantical code practices.
 
 <h2>🗄️ Back-end Projects:</h2>
 
