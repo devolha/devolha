@@ -10,7 +10,7 @@
 
 <h2>🎨 Front-end Projects:</h2>
 
--   <b>HTML5</b>:
+-   <b>HTML5, CSS3</b>:
     - [Personal Website](https://github.com/devolha/personal-site) - a structured personal page, written in HTML language according to the best semantical code practices.
 
 <h2>🗄️ Back-end Projects:</h2>
@@ -27,11 +27,10 @@
 
 <h2>📄 Certifications:</h2>
 
--   <b><img alt="VolhaSakalouskaya | Microsoft" width="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoft.svg" />  Microsoft</b>
-    -   [Career Essentials in Software Development](https://www.linkedin.com/learning/certificates/dfea717dbd57c75751e2c7981bc15d870c9679d717c9ddc14bfe3ee6abe9090c)
-    -   Career Essentials in System Administration (in progress)
--   <b>Astronomer</b>
-    - [Data Engineering Foundations Professional Certificate](https://www.linkedin.com/learning/certificates/5b2abc69af91ae4cd2c8308b5f5f850326fb1aa7671a06d79ac0111de3cec28a)
+-   <b>IT and Software Development</b>
+    -   [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/dfea717dbd57c75751e2c7981bc15d870c9679d717c9ddc14bfe3ee6abe9090c)
+-   <b>Data Engeineering and Analysis</b>
+    - [Data Engineering Foundations Professional Certificate by Astronomer](https://www.linkedin.com/learning/certificates/5b2abc69af91ae4cd2c8308b5f5f850326fb1aa7671a06d79ac0111de3cec28a)
 
 <h2>📇 My story about career switch</h2>
 
