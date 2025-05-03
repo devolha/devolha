@@ -1,4 +1,4 @@
-<h1>Hi, I'm Volha! <br/><a href="https://www.linkedin.com/in/volha-sakalouskaya/">ERP Specialist</a>, <a href="https://github.com/devolha">Junior Software Developer</a></h1>
+<h1>Hi, I'm Volha! <br/><a href="https://www.linkedin.com/in/volha-sakalouskaya/">ERP Specialist</a>, <a href="https://github.com/devolha">Software Developer</a></h1>
 
 <p>I'm a self-motivated individual with a passion for modern technologies. As an expiriesied ERP application user, I've started to learn more about information technologies and various digital business solutions.
 <p>After about 2 years of self-studing and exploring IT field, I'm creating and developing on my own.</p>
@@ -34,7 +34,7 @@
 
 <h2>📇 My story about career switch</h2>
 
--   [The Power of Self-Education: My Journey from Law to Operation Development](https://www.linkedin.com/pulse/power-self-education-my-journey-from-law-operation-volha-sakalouskaya-c8gwc/?trackingId=15%2Bp7%2F%2FYSTmPm3iq%2F71wkA%3D%3D)
+-   [Self-Education: From Law to Software](https://www.linkedin.com/pulse/power-self-education-my-journey-from-law-operation-volha-sakalouskaya-c8gwc/?trackingId=15%2Bp7%2F%2FYSTmPm3iq%2F71wkA%3D%3D)
 
 
 <h2> 🤳 Connect with me:</h2>
