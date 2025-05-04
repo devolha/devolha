@@ -6,7 +6,7 @@
 
 <h2>📚 Full-stack Projects:</h2>
 
-<b>LANGUTORO</b> [(in progress)](https://github.com/devolha/langutoro)</b> - an interactive website to learn language by exploring traditions and cultural heritage.
+![](https://github.com/devolha/langutoro/blob/main/favicon-32x32.ico) <b>LANGUTORO</b> [(in progress)](https://github.com/devolha/langutoro)</b> - an interactive website to learn language by exploring traditions and cultural heritage.
 
 <h2>🎨 Front-end Projects:</h2>
 
